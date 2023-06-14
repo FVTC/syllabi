@@ -1,6 +1,8 @@
 {
 	"appel": {
-		"username": "rdappel",
-		"repo": "courses"
+		"github": {
+			"username": "rdappel",
+			"repo": "courses"
+		}
 	}
 }
